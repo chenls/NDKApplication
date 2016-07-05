@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/chenls/桌面/NDKApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/chenls/桌面/NDKApplication/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_c92517d44046824176a656fd9638f6ff43b2d99f.jar" />
+    </item>
+    <item
+        jar="/home/chenls/桌面/NDKApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/chenls/桌面/NDKApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_4e6cfeca2418aab532faab5f18a77b6354aa4b20.jar" />
+    </item>
+    <item
+        jar="/home/chenls/桌面/NDKApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/chenls/桌面/NDKApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_f940d5f5f6712dce7fa636568a93e2f44cb5a861.jar" />
+    </item>
+    <item
+        jar="/home/chenls/桌面/NDKApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/chenls/桌面/NDKApplication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_62867057a2a9e3209ef74e4d9b1b167406acd00f.jar" />
+    </item>
+    <item
+        jar="/home/chenls/桌面/NDKApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/chenls/桌面/NDKApplication/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_3780611b1f6414a15fd7152d227e5f6480d6461d.jar" />
+    </item>
+    <item
+        jar="/home/chenls/soft/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/chenls/桌面/NDKApplication/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_ba00f7d350cfbb283ea85bfeefd9ce39a08f65d0.jar" />
+    </item>
+
+</items>
